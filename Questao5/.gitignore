@@ -1,0 +1,72 @@
+# Build Folders (Generated)
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS-generated files
+*.DS_Store
+Thumbs.db
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# IDE config
+*.vs/
+
+# Temporary and cache files
+*.swp
+*~
+
+# Compiled source
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb
+*.cache
+
+# Dependencies
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Azure
+*.publishsettings
+
+# VS Code directories
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# macOS Finder
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# Coverage files
+*.coverage
+*.coveragexml
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
