@@ -8,3 +8,7 @@ Part 01
 Part 02
 
 ![20241204 144141](https://github.com/user-attachments/assets/98bec38e-adf6-48d6-bbd5-fecbaced07a6)
+
+Part 03
+
+![20241204 150150](https://github.com/user-attachments/assets/df0f5651-1437-4096-a63b-0d2a6d51832b)
