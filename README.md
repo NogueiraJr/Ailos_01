@@ -12,3 +12,8 @@ Part 02
 Part 03
 
 ![20241204 150150](https://github.com/user-attachments/assets/df0f5651-1437-4096-a63b-0d2a6d51832b)
+
+Part 04 (Executed in Postgres, as I don't have Oracle)
+
+![20241204 152417](https://github.com/user-attachments/assets/433d1be2-d907-4ce6-983f-19b1a476cba2)
+![20241204 152454](https://github.com/user-attachments/assets/53b1ffe9-7353-435c-a53f-fd1d957e87b8)
